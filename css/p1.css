@@ -1,0 +1,60 @@
+ body{
+  margin:0; padding:0; 
+  box-sizing: border-box;
+  font-family:verdana;
+  text-align: center;
+  display:block;
+  background: lightblue;
+}
+
+#sidebar {font-family:none; font-size:0.8em; }
+
+
+
+  
+.form-group{
+  width: 40%; 
+  margin:auto ;
+  margin-top:4em  ;
+  box-shadow: 0px 10px 30px 0px;
+  border: 1px solid #F9FAFB;
+ background-color: skyblue;
+ border-radius: 10px;
+}
+
+.email-form, .subsribe-botton{
+width: 90%;
+font-size: 1em;
+margin-top: 2em;
+padding-top: 0.5em;
+padding-bottom: 0.5em;
+}
+
+.email-form{background:white; 
+border-radius: 10px;
+border:5px solid:black;
+}
+
+.subsribe-botton{background:royalblue;
+color:black; 
+border-radius: 10px;
+border:5px solid:black;
+}
+
+.helper-text{font-family:none;
+font-size:0.8em; }
+
+#main-footer{color:green;
+margin: 10px;
+
+font-size:0.7em;}
+
+
+
+
+
+
+
+
+
+
